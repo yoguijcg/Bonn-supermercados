@@ -1,0 +1,55 @@
+{
+  "_from": "vue-facebook-login-button-directive",
+  "_id": "vue-facebook-login-button-directive@0.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-lTUoRc8R0zLWnodnKYFiMBPCbaBsMiD9rZCZb08Uny+/MCtsi0AFwF9Bf9HOZ1luvV8lckkotz/H7M/wUoNkiQ==",
+  "_location": "/vue-facebook-login-button-directive",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "vue-facebook-login-button-directive",
+    "name": "vue-facebook-login-button-directive",
+    "escapedName": "vue-facebook-login-button-directive",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/vue-facebook-login-button-directive/-/vue-facebook-login-button-directive-0.0.1.tgz",
+  "_shasum": "8f803c6e158233b939b5732f40ba6f33cc3bead3",
+  "_spec": "vue-facebook-login-button-directive",
+  "_where": "C:\\laragon\\www\\bonn",
+  "author": {
+    "name": "Collin Pedersen",
+    "email": "me@collinped.com",
+    "url": "https://www.collinped.com"
+  },
+  "bugs": {
+    "url": "https://github.com/collinped/vue-facebook-login-button-directive/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A simple Vue directive to include Facebook Sign-In Button behavior in any component.",
+  "homepage": "https://github.com/collinped/vue-facebook-login-button-directive#readme",
+  "keywords": [
+    "vue",
+    "facebook",
+    "signin",
+    "login"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "vue-facebook-login-button-directive",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/collinped/vue-facebook-login-button-directive.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.1"
+}
