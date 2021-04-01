@@ -16,7 +16,7 @@
       </v-col>
 
       <v-col cols="11" md="8" style="margin: auto;">
-        <iframe src="https://www.youtube.com/embed/u3cdCjhmocQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe id="watch" style="width: 100%; height: 70vh;" src="https://www.youtube.com/embed/u3cdCjhmocQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
       </v-col>
     </v-row>
